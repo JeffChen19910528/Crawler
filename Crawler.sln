@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Crawler", "Crawler\Crawler.pyproj", "{C7E2E60B-FE9A-49B7-BB84-4517A3CEE78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E2E60B-FE9A-49B7-BB84-4517A3CEE78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E2E60B-FE9A-49B7-BB84-4517A3CEE78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {582CC0CA-C402-4C32-A865-574B575348F6}
+	EndGlobalSection
+EndGlobal
